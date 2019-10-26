@@ -54,3 +54,13 @@ Biorą pod uwagę umiejętności oraz aspirację członków zespołu struktura o
 Jarosław Zięba: Projekt manager, developer, zarządzanie serwerem aplikacji, produkcja aplikacji desktopowej, pomoc przy rozwijaniu serwera baz danych, rozwój głównego serwera, specjalista od protokołu TCP.
 
 Łukasz Ponikowski: Specjalista od baz danych, developer, zarządzanie serwerem baz danych, produkcja aplikacji przeglądowej, rozwój serwera baz danych, pomoc przy rozwijaniu serwera głównego, specjalista od protokołu HTTP.
+
+
+Metodologia pracy
+
+1. Pracujemy w metodologii Test driven development, czyli najpierw implementujemy testy, a potem funkcje i klasy spełniające te testy. W ten sposób podczas powiększania funkcjonalności będziemy zawsze wiedzieć czy inny fragmenty kodu się nie wysypują: tak długo jak działają stare testy to musi tez działać stara funkcjonalność, nawet jeśli została zaimplementowana nowa. 
+2. Działamy przy założeniu, że każdy malutki projekcik ma realizować jakąś działająca cześć systemu zamiast starać się od razu robić duże skoki robić. 
+3. Od momentu stworzenia pierwszego działającego testu pracować będziemy z tygodniowym development circle, czyli co tydzień wypuszczana będzie poprawiona działająca wersja, a także co tydzień odbywać będzie się spotkanie mające na celu sporządzenia raportu postępu oraz opracowanie wytycznych odnośnie prac na następne tygodnie.
+4. Funkcjonalność implementowana będzie w takiej kolejności, w jakiej dane technologie, koncepcje pojawią się podczas nauki na studiach z poszanowaniem generalnego rozwoju projektu.
+5. Do zarządzania wersjami używać będziemy technologii git z platformą github.
+6. Członkowie grupy zobowiązują się także zawsze służyć pomocą przy nauce potrzebnych zagadnień innym członkom grupy.
