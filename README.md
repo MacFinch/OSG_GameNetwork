@@ -1,7 +1,7 @@
 Dokument założycielski grupy OSG
 
 Wstęp
-    xOXooooX
+
 Niniejsza grupa została zainicjowana podczas pierwszych ćwiczeń z Systemów Operacyjnych na pierwszym roku studiów zaocznych z informatyki na Uniwersytecie Ekonomicznym w Katowicach. Chcąc zainspirować studentów do samodzielnego przyjrzenia się systemom operacyjnym jako narzędziom do rozwiązywania konkretnych i realnych problemów w środowisku businessowym, profesor Artur Machura poprosił studentów o samodzielne podzielenie się na 2-3 osobowe grupy oraz wymyślenie sobie projektu, którego realizacja wymaga fachowej pracy z wyselekcjonowanym pod kątem projektu Systemem Operacyjnym.
 
 Wykorzystując to zdanie jako preteks studenci – Jarosław W. Zięba, Łukasz Ponikowski, – postanowili podjąć się nieco ambitniejszego projektu niż wymagany, aby móc przy okazji rozwinąć inne cenne umiejętności, którymi mogą być zainteresowani potencjalni pracodawcy. Celem jest wykształcić skillset, który umożliwi wszystkim członkom grupy zdobycie entry level position w branży przed rozpoczęciem drugiego roku studiów.
